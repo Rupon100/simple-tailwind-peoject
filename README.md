@@ -1,2 +1,2 @@
-# it's a basic project 
-i'll develop it in future.
+# it's a basic practice project 
+live view: https://tailwind-sample-test.netlify.app/
